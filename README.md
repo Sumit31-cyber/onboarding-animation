@@ -1,3 +1,4 @@
 # onboarding-animation
 react-native onboarding animation using reanimated 2.
-![onboard](https://user-images.githubusercontent.com/72148803/159924492-a74ac942-847b-4a14-beb1-746c87b5bf4e.gif)
+
+![main gif](https://user-images.githubusercontent.com/72148803/159942926-de5f161a-1c28-41b9-b49c-2e31d8c80ab1.gif)
